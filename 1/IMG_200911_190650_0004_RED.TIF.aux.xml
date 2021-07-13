@@ -1,0 +1,63 @@
+<PAMDataset>
+  <Metadata domain="xml:XMP" format="xml">
+    <?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:Camera="http://pix4d.com/camera/1.0/" Camera:RigName="Sequoia" Camera:RigCameraIndex="1" Camera:Yaw="0.268541" Camera:Pitch="2.907991" Camera:Roll="-7.506407" Camera:BandGain="1.000000" Camera:SensorTemperature="55.681824" Camera:LineReadoutTime="23076" Camera:RigRelatives="-0.333355233658385,0.0881226031777644,-0.149535835994151" Camera:PrincipalPoint="2.231056,1.860281" Camera:ModelType="fisheye" Camera:FisheyeAffineSymmetric="1" Camera:FisheyeAffineMatrix="1662.658742857,0,0,1662.658742857" Camera:FisheyePolynomial="0,1,0.00407153,-0.140801468" Camera:GPSXYAccuracy="0.544472" Camera:GPSZAccuracy="0.791000" Camera:FlightUUID="2F2D0F4510A7DE43E475E0101CEA9DCD" Camera:CaptureUUID="EA28FCDF7EEAA5C97732AF80B41BD5F0" Camera:SunshineSerialNumber="PI040379BB7E003932" Camera:IrradianceCalibrationMeasurement="0,600,30,7,1,600,736,192,2,600,12568,3199,3,600,65535,65535" Camera:CalibrationMeasurement="1,0.00246913580246914,485" Camera:CalibrationPicture="0" Camera:IrradianceCalibrationMeasurementGolden="0,600,33,8,1,600,818,210,2,600,13685,3462,3,600,65535,65535" Camera:IrradianceSensitivitiesGolden="367.84662,97.5327952" Camera:IrradianceUnitScale="1.7873713395012918">
+          <Camera:SensorModel>
+            <rdf:Seq>
+              <rdf:li>310783.70169299195,4818.853614429163,2907.7316175272017</rdf:li>
+            </rdf:Seq>
+          </Camera:SensorModel>
+          <Camera:BandName>
+            <rdf:Seq>
+              <rdf:li>Red</rdf:li>
+            </rdf:Seq>
+          </Camera:BandName>
+          <Camera:CentralWavelength>
+            <rdf:Seq>
+              <rdf:li>660.000000</rdf:li>
+            </rdf:Seq>
+          </Camera:CentralWavelength>
+          <Camera:WavelengthFWHM>
+            <rdf:Seq>
+              <rdf:li>40.000000</rdf:li>
+            </rdf:Seq>
+          </Camera:WavelengthFWHM>
+          <Camera:BlackCurrent>
+            <rdf:Seq>
+              <rdf:li>76.000000</rdf:li>
+            </rdf:Seq>
+          </Camera:BlackCurrent>
+          <Camera:VignettingPolynomial2DName>
+            <rdf:Seq>
+              <rdf:li>0,0,1,0,2,0,3,0,4,0,0,1,0,2,0,3,0,4,1,1,1,2,1,3,2,1,2,2,3,1</rdf:li>
+            </rdf:Seq>
+          </Camera:VignettingPolynomial2DName>
+          <Camera:VignettingPolynomial2D>
+            <rdf:Seq>
+              <rdf:li>0.6976814026098552,1.2276942535269308,-2.4507019598957127,2.4024871770527487,-1.1960693421384940,0.5824792410298727,-0.8220586204496713,0.4659859339574842,-0.2196668979291332,-1.1046721342317893,0.9687704313261860,0.0084208986156096,1.2722935275696805,-1.0693722847417293,-0.0855947908739523</rdf:li>
+            </rdf:Seq>
+          </Camera:VignettingPolynomial2D>
+          <Camera:InvalidPixel>
+            <rdf:Seq>
+              <rdf:li>366,30,1244,306,152,479,976,586,672,605</rdf:li>
+            </rdf:Seq>
+          </Camera:InvalidPixel>
+          <Camera:IrradianceList>pUJzMgAAAADwAX0AAQBkADanDEMJJC7AK6EOwOpPdjIAAAAA7wF9AAEAZABxxQxDGY0fwJT/tcCuX3kyAAAAAPABfQABAGQAzbYMQ4jPKcAPwQbB9W58MgAAAADvAXwAAQBkAIXIDENQsk3ANigDwTB4fzIAAAAA7AF8AAEAZAD5dQxDFexfwF+zmMAWiYIyAAAAAO0BfAABAGQA3GAMQ2X2v79uwhbBxoqFMgAAAADtAXwAAQBkAKztC0OWZSG/AXAUwcediDIAAAAA7QF8AAEAZACdpgtDdzDbv0Wlv8D4pIsyAAAAAO8BfAABAGQAjtgLQx6ypb9ceA/BJq+OMgAAAADvAX0AAQBkAPn6C0PihYK+gHIfwXS6kTIAAAAA7gF8AAEAZADJ7QtDMDsJv/mli8CRyZQyAAAAAO0BfAABAGQABjsMQ5Pjf78K/WO/2NaXMgAAAADsAXwAAQBkAHXCDEPOWI6/QCkQOynnmjIAAAAA7gF8AAEAZACYRA1D3Fthv+nJEMD0750yAAAAAO4BfAABAGQAqL8NQ0lH8r+QLpK/oP6gMgAAAADsAXwAAQBkACoTDkOJj0TAl1g9vt0MpDIAAAAA7gF8AAEAZAC4Uw5Di9RKwMzwQL4VHacyAAAAAO4BfAABAGQAIIUOQwATFcC9sBLAOC+qMgAAAADuAXwAAQBkANVhDkO3rQPAZ0+WP+w8rTIAAAAA8AF9AAEAZADPiQ5Do6H4v0rrgL+cS7AyAAAAAPMBfgABAGQAW4gOQwmLgL9MzJnA4lizMgAAAAD1AX4AAQBkAEc9DkNKvaS9ZlcIwSdrtjIAAAAA9gF+AAEAZADE3Q1Dfkfiveub9cC7drkyAAAAAPYBfgABAGQAxaANQ3YazT6u2QnBKX+8MgAAAAD2AX4AAQBkAIJ5DUMeF5q+oWLMwGSNvzIAAAAA8wF9AAEAZACsRA1Dl5mXv+dS/sCimsIyAAAAAPMBfQABAGQAWEANQ6T72b8x7MHAaKjFMgAAAADyAX0AAQBkABOFDUNbkB3AYbgrwIG3yDIAAAAA7gF8AAEAZACYlQ1DlxccwCPEqcDYw8syAAAAAO4BfAABAGQA1F8NQzoZKcCWs3vAMM7OMgAAAADtAXwAAQBkAGs/DUO44yXAA5VcwFne0TIAAAAA6wF7AAEAZAD5Qg1DxswwwHg7esAy7dQyAAAAAOsBfAABAGQA8TUNQxtYK8BgyPa/S/3XMgAAAADtAXwAAQBkAFZ9DUMRG9i/tm3ZwJoG2zIAAAAA8AF9AAEAZACtfA1DTCqTv/QhwcDHFd4yAAAAAPIBfQABAGQAgXgNQ4FacL8CBCPA5xjhMgAAAADxAX0AAQBkAMmVDUP98+O/iVF3wBAt5DIAAAAA8gF9AAEAZACMcQ1DaLH5v5bbGcCpP+cyAAAAAPMBfQABAGQA/oQNQ/B9C8BAF7fAQznqMgAAAAD0AX4AAQBkAHKBDUPkEBnApL03wO5I7TIAAAAA9AF+AAEAZACuig1DYVCXv2fNhsCzVvAyAAAAAPUBfgABAGQAaT0NQxJ81b81ywDA8GXzMgAAAAD2AX4AAQBkACULDUPH1om/At6awKV09jIAAAAA9wF/AAEAZADStgxDvP6/vuVIxsBvffkyAAAAAPgBfgABAGQAbFUMQ9vs+75oTffAKov8MgAAAAD4AX8AAQBkAFcwDEPiAs+/ujxQwG2Y/zIAAAAA+AF/AAEAZACDXwxDoXywv7wum8BBpQIzAAAAAPcBfgABAGQAjWIMQ7/Xkr0ECWjA27YFMwAAAAD3AX8AAQBkAM6UDEMno1u/JTqGv6jACDMAAAAA9wF+AAEAZAC+5QxD5geMvyqk6r/5zAszAAAAAPUBfgABAGQACBINQ7se3r9pec6/
+</Camera:IrradianceList>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+    <?xpacket end="w"?>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">65472</MDI>
+      <MDI key="STATISTICS_MEAN">24239.588596491</MDI>
+      <MDI key="STATISTICS_MINIMUM">7808</MDI>
+      <MDI key="STATISTICS_STDDEV">10697.5571292</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,19 @@
+D1	Classificação 	%              Segmentador
+	verde 		21.97          23.88
+	vermelho 	11.96          08.92  
+	preto		66.07          67.18      
+		
+D2	Classificação 	
+	verde 		17.85          14.67
+	vermelho 	5.63           00.35  
+	preto		76.53          84.96
+		
+D3	Classificação 	
+	verde 		8.48           11.06  
+	vermelho 	0.63           00.39
+	preto		90.89          88.54 
+		
+D4	Classificação 	
+	verde 		4.27           19.66  
+	vermelho 	0.79           00.02      
+	preto		94.94          80.31 
